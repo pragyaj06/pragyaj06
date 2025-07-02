@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi👋
+##I am new at coding and very enthusiatic about learning it.
 <!--
 **pragyaj06/pragyaj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
